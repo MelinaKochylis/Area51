@@ -11,6 +11,7 @@
 #first-div {
     display: flex;
     align-items: center;
+    background-color: white;
 }
 
 .title{
@@ -19,4 +20,46 @@
 
 h3 {
     text-align: center;
+}
+
+#carouselExampleSlidesOnly {
+    text-align: center
+}
+
+body{
+    background-color:purple ;
+    color: white 
+}
+
+a{
+    color: white;
+    text-decoration:none;
+}
+
+#footer {
+    padding-top: 30px;
+    background-color:  rgb(90, 87, 87);
+    color: white;
+}
+
+#footer h4 {
+    text-decoration: underline;
+}
+
+.social-icons {
+    padding-left: 0px;
+}
+
+.social-icons li {
+    list-style: none;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+
+.social-icons li a:hover {
+    color: purple;
+}
+
+.form{
+    padding-top: 5px;
 }
