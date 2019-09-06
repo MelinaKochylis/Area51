@@ -1,0 +1,22 @@
+/*#first-div img{
+    display: inline-block;
+
+}
+
+#first-div h1{
+    display: inline-block;
+    vertical-align: middle;
+}*/
+
+#first-div {
+    display: flex;
+    align-items: center;
+}
+
+.title{
+    padding-left: 10px;
+}
+
+h3 {
+    text-align: center;
+}
